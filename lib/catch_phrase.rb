@@ -9,10 +9,10 @@ spec_helper
 #   puts "catchy #{phrase}"
 # end
 
-def catch_phrase(phrase="It's s-a me, Mario)
+def catch_phrase (phrase = "It's s-a me, Mario")
   puts "#{phrase}"
 end
-
+end
 catch_phrase
 
 
